@@ -1,0 +1,16 @@
+# Unity generated folders (dentro del proyecto fuente)
+ExampleUnity/Library/
+ExampleUnity/Temp/
+ExampleUnity/Obj/
+ExampleUnity/Logs/
+ExampleUnity/UserSettings/
+ExampleUnity/MemoryCaptures/
+ExampleUnity/_UnusedBackup/
+
+# Visual Studio
+ExampleUnity/.vs/
+ExampleUnity/*.csproj
+ExampleUnity/*.sln
+ExampleUnity/*.slnx
+ExampleUnity/*.suo
+ExampleUnity/*.user
